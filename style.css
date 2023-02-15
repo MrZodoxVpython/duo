@@ -1,3 +1,10 @@
-*{
+body {
 	background-color: #4f4445;
+}
+img {
+  width: 250px;
+  height: 150px;
+}
+.wrapper {
+  background-color: white;
 }
