@@ -8,6 +8,36 @@ img {
 .wrapper {
   background-color: white;
 }
+.judul {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+.wrapper header nav ul li {
+  display: inline-block;
+}
+.wrapper header nav ul li a {
+  color: white;
+  margin: 10px;
+}
+nav {
+  background-color: #361509;
+}
+h3 {
+  color: white;
+  text-align: center;
+  margin-top: -20px;
+}
+footer {
+  color: white;
+  background-color: #805A46;
+  padding: 1px;
+  
+}
+footer h4 {
+  margin-left: 10px;
+}
 .right {
 	text-align: right;
 }
+
