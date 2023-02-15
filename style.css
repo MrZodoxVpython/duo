@@ -40,9 +40,19 @@ footer h4 {
 }
 .caption {
   color: black;
+  margin-left: 320px;
+  
+}
+.text {
+  
+}
+.pertama {
+  color: green;
+  margin-left: 320px;
 }
 .h22 {
   color: red;
+  margin-left: 320px;
 }
 
 aside {
