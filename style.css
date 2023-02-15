@@ -36,11 +36,31 @@ footer {
 }
 footer h4 {
   margin-left: 10px;
-  padding-block: 15px;
+  padding: 15px;
 }
 .caption {
   color: black;
 }
 .h22 {
   color: red;
+}
+
+aside {
+  position: absolute;
+  background-color: white;
+  margin-left: 700px;
+  margin-top: -655px;
+  border-left: 1px black solid;
+}
+aside h1 {
+  color: red;
+  margin-left: 15px;
+}
+
+aside h1 h5 a {
+  color: green;
+  margin-left: -50px;
+}
+.5 {
+  margin-left: 15px;
 }
