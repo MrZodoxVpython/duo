@@ -8,3 +8,6 @@ img {
 .wrapper {
   background-color: white;
 }
+.right {
+	text-align: right;
+}
