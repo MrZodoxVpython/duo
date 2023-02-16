@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: pink;
+}
+.utama {
+  align-items: center;
+}
+p {
+  width: 400px;
+  height: 200px;
+}
